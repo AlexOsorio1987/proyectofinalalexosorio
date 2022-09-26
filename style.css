@@ -1,0 +1,31 @@
+body{
+    background-color: black;
+
+    background-image: url(./imagenes/logo\ 1.png);
+    background-size: contain;
+}
+
+.container {
+    margin-top: 80px;
+}
+
+.tabla{
+
+    margin-top: 70px;
+
+}
+
+
+
+footer{
+    margin-top: 130px;
+    border-top: solid thin rgba(128, 128, 128, 0.424);
+}
+
+
+.f-content{
+    width: 40%;
+    padding-top:40px ;
+    color: white;
+}
+
